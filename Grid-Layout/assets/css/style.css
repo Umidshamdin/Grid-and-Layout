@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(155, 232, 255)
+}
+.navbar a{
+    background-color: yellow;
+    width: 200px;
+    height: 20px;
+    color: blue;
+    border-top: 3px solid blue;
+    border-left: 3px solid blue;
+    border-right: 3px solid blue;
+    border-bottom: 3px solid blue;
+}
+.navbar{
+    height: 30px;
+    margin-left: 200px;
+}
+.col-2{
+    background-color: #808080;
+    color: cyan;
+    width: 16.66%;
+    height: 400px;
+    text-align: center;
+}
+.col-3{
+    background-color: yellow;
+    color: black;
+    width: 16.66%;
+    height: 400px;
+    text-align: center;
+}
+.col-4{
+    background-color: rgb(0, 0, 139);
+    color: yellow;
+    width: 16.66%;
+    height: 400px;
+    text-align: center;
+}
+.row{
+    display: flex;
+}
+.info p{
+    color: orange;
+    margin-left: 172px;
+}
